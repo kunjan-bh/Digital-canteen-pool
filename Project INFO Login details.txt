@@ -1,0 +1,28 @@
+
+----Admin Login:------
+-email: admin@gmail.com
+-pass: 123
+
+-----Student Login:----
+-email: student@gmail.com
+-pass: 123
+
+-----Online Payment Demo Account-----
+eSewa ID: 9806800001
+Password: Nepal@123
+Token:123456
+
+-----IMP: the payment works if the Whole Folder is extracted inside htdocs ->> Payment success path:>> localhost/Kunjan_Bhatt_24152365_PHP/php_Project/phpScripts/payment_success.php
+
+
+--The project has features Like:
+1- Food menu display and order
+2- Online wallet payment integration 
+3- food feedback system after a food order is ready
+4- Filter menu wise content based on category
+5- all crude operation for above function
+
+
+
+
+
